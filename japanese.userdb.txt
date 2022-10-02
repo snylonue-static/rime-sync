@@ -1,0 +1,101 @@
+# Rime user dictionary
+#@/db_name	japanese.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	141
+#@/user_id	snylonue-home-win10
+a 	あ	c=1 d=1 t=14
+a 	ア	c=1 d=1 t=100
+anata 	あなた	c=1 d=1 t=83
+anime 	アニメ	c=7 d=6.21231 t=140
+aoi 	青い	c=1 d=1 t=112
+ba 	ば	c=1 d=1 t=20
+bo 	ぼ	c=1 d=1 t=49
+chi ta 	ちた	c=1 d=1 t=137
+da 	だ	c=3 d=2.83932 t=96
+datta 	だった	c=1 d=1 t=67
+de 	で	c=1 d=1 t=65
+desu 	です	c=2 d=1.70469 t=110
+dona dona 	どなどな	c=1 d=1 t=52
+donadona 	ドナ・ドナ	c=1 d=1 t=53
+donna donna 	どんなどんな	c=1 d=1 t=54
+e 	え	c=1 d=1 t=64
+e 	エ	c=1 d=1 t=34
+fu 	ふ	c=1 d=1 t=10
+fuka 	ふか	c=2 d=1.89137 t=71
+gakusei 	学生	c=1 d=1 t=66
+hana 	花	c=3 d=2.90339 t=124
+hana no tou 	花の塔	c=1 d=1 t=125
+heike 	平家	c=11 d=10.4699 t=135
+heikemonogatari 	平家物語	c=1 d=1 t=131
+i 	イ	c=1 d=1 t=94
+ji 	ジ	c=1 d=1 t=36
+ka 	か	c=3 d=2.56356 t=136
+kado 	カド	c=1 d=1 t=78
+kai 	階	c=1 d=1 t=15
+kano 	かの	c=1 d=1 t=122
+kano 	鹿乃	c=1 d=1 t=124
+kanojo 	彼女	c=1 d=1 t=45
+katachi 	かたち	c=2 d=1.99005 t=141
+kawaii 	可愛い	c=1 d=1 t=109
+ki 	綺	c=1 d=1 t=55
+ki re 	綺れ	c=1 d=1 t=56
+kire 	きれ	c=1 d=1 t=61
+kirei 	きれい	c=2 d=1.97531 t=62
+kirei 	綺麗	c=1 d=1 t=58
+koha 	コハ	c=1 d=1 t=73
+kon 	こん	c=2 d=1.67032 t=86
+kon 	今	c=1 d=1 t=5
+kono 	この	c=1 d=1 t=84
+konohana 	このはな	c=3 d=2.95101 t=88
+kowai i 	怖いい	c=1 d=1 t=17
+ku 	く	c=1 d=1 t=2
+kutsu 	靴	c=2 d=1.99005 t=3
+machi kado 	まちカド	c=2 d=1.97531 t=81
+machikado 	まちかど	c=2 d=1.99005 t=77
+machikado 	街角	c=1 d=1 t=74
+meka 	めか	c=1 d=1 t=19
+no 	の	c=3 d=2.5652 t=115
+no tou 	の塔	c=1 d=1.06561 t=124
+nya 	ニャ	c=1 d=1 t=13
+nyaa 	にゃあ	c=1 d=1 t=12
+o 	お	c=2 d=1.90484 t=31
+o ga iri 	おが入り	c=1 d=1 t=29
+ogi 	荻	c=1 d=1 t=18
+okaeri 	お帰り	c=1 d=1 t=32
+okairi 	おかいり	c=1 d=1 t=30
+omedeto 	おめでと	c=1 d=1 t=42
+ona 	女	c=2 d=1.97531 t=26
+ona 	小名	c=2 d=1.99501 t=25
+oni pan 	おにぱん	c=4 d=3.90659 t=51
+pasokon 	パソコン	c=1 d=1 t=4
+ra ji o 	らじお	c=1 d=1 t=7
+re 	れ	c=1 d=1 t=59
+re 	レ	c=1 d=1 t=35
+rei 	れい	c=1 d=1 t=60
+riko 	リコ	c=5 d=4.74942 t=98
+riko ri 	リコリ	c=1 d=1 t=91
+riko ri su 	リコリス	c=1 d=1 t=104
+rikoriko 	リコリコ	c=2 d=1.96561 t=97
+riri 	リリ	c=1 d=1 t=37
+ru 	ル	c=1 d=1 t=95
+sa 	さ	c=1 d=1 t=118
+saki 	サキ	c=1 d=1 t=38
+sayonara 	さよなら	c=1 d=1 t=33
+shi no a ki 	しのあき	c=1 d=1 t=141
+shizuku 	雫	c=2 d=1.8311 t=107
+shokudou 	食堂	c=1 d=1 t=16
+su 	ス	c=1 d=1 t=92
+sushi 	寿司	c=1 d=1 t=46
+ta 	た	c=1 d=1 t=68
+tachi 	たち	c=1 d=1 t=138
+taki na 	たきな	c=1 d=1 t=111
+tou 	塔	c=1 d=1 t=103
+tsugu 	つぐ	c=1 d=1 t=9
+tsugu 	注ぐ	c=1 d=1 t=8
+watashi 	私	c=2 d=1.99005 t=41
+ya chi 	やち	c=1 d=1 t=27
+yaji 	やじ	c=1 d=1 t=23
+yo 	夜	c=1 d=1 t=113
+yoji 	よじ	c=1 d=1 t=28
+yuru 	ゆる	c=1 d=1 t=50

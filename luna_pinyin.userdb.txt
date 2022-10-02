@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	7
+#@/user_id	snylonue-home-win10
+bu zhi dao 	不知道	c=2 d=1.96536 t=7
+hao jiu 	好久	c=2 d=1.98511 t=7
+tong bu 	同步	c=1 d=1 t=7
+wo 	我	c=2 d=1.97521 t=7

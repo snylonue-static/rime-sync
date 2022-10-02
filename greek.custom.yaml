@@ -1,0 +1,3 @@
+patch:
+  switches:
+   - {name: "full_shape", reset: 0, states: [ "半", "全" ]}

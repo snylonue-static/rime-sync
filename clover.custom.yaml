@@ -1,0 +1,16 @@
+patch:
+  switches:
+    - {name: "emoji_suggestion", reset: 0, states: ["\uFE0E", "\uFE0F"]}
+    - {name: "full_shape", reset: 0, states: [ "半", "全" ]}
+
+  punctuator/half_shape:
+    "[": "「"
+    "]": "」"
+
+windows_compatible_mode_switch:
+  __append:
+    # - { when: always, accept: Shift+space, toggle: full_shape }
+    - { when: always, accept: Control+comma, toggle: ascii_punct }
+    - { when: always, accept: Control+period, toggle: ascii_punct }
+    - { when: always, accept: Control+Shift+f, toggle: zh_simp_s2t }
+    - { when: always, accept: Control+Shift+F, toggle: zh_simp_s2t }
